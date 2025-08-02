@@ -16,22 +16,6 @@ The "Financial Applications with Machine Learning & AI" course explores the inte
 
 ## Topics 📚
 
-#### Module I: Fintech Toolbox
-- Week 1: Credit Risk via Supervised Learning and Survival Analysis
-- Week 2: Fraud Prevention via Auto-encoder
-- Week 3: Valuation of Crypto-assets using LSTM Networks
-- Week 4: Evaluation and Project I
-#### Module II: Reviewing Financial Objects
-- Week 1: Value at Risk via ARCH
-- Week 2: Black & Scholes vs. Monte-Carlo for Derivatives
-- Week 3: Markowitz vs. Graph Theory
-- Week 4: Evaluation and Project II
-#### Module III: AI in Finance
-- Week 1: Hedging and Reinforcement Learning
-- Week 2: NLP, Transformers, and ChatGPT for Finance
-- Week 3: Multivariate Network Outliers
-- Week 4: Evaluation and Project III
-
 #### 🧩 Module I — Introduction to Derivatives
 - Week 1: Fixed Income and Coupon Bonds
 - Week 2: Forward Contracts
